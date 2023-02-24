@@ -1,0 +1,39 @@
+body{
+    background-color: #d3b6b66e;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    line-height: 50px;
+
+
+}
+/* .cart .h1{
+    display: flex;
+    font-size: 15px;
+    justify-content: center;
+    color: aliceblue;
+    padding: 0%; */
+
+.subheadings{
+    display: flex;
+    gap: 100px;
+    padding: 5rem;
+    /* justify-content: center; */
+    /* align-content: center; */
+}
+.item1{
+    display: flex;
+    padding: 8rem;
+    gap: 50px;
+    /* margin: 5px; */
+    /* justify-content: left; */
+    /* align-items: start; */
+    align-items: first baseline;
+    align-items: center;
+    
+    
+}
+

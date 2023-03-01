@@ -36,4 +36,32 @@ body{
     
     
 }
+.item2{
+    display: flex;
+    padding: 8rem;
+    gap: 50px;
+    /* margin: 5px; */
+    /* justify-content: left; */
+    /* align-items: start; */
+    align-items: first baseline;
+    align-items: center;
 
+}
+
+.item3{
+    display: flex;
+    padding: 8rem;
+    gap: 50px;
+    /* margin: 5px; */
+    /* justify-content: left; */
+    /* align-items: start; */
+    align-items: first baseline;
+    align-items: center;
+}
+.checkout{
+    color: bisque;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    
+}
